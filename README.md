@@ -1,4 +1,4 @@
-# Hi, I'm Henning 👋
+# Hi, I'm Henning
 
 **Infrastructure & Security Enthusiast** | Building enterprise-grade homelab environments for hands-on learning and skill development
 
@@ -6,19 +6,19 @@
 
 ---
 
-## 🎯 About Me
+## About Me
 
 I'm a systems administrator and security researcher based in Oslo/Lillestrøm, Norway, with a passion for building robust, secure infrastructure. My homelab serves as both a learning platform and a showcase of enterprise-level competencies in networking, virtualization, and security.
 
 **Current Focus:**
-- 🏗️ Enterprise homelab infrastructure design
-- 🔒 Defense-in-depth security implementations
-- 🧪 Security research and malware analysis
-- 📚 Continuous learning and skill development
+-  Enterprise homelab infrastructure design
+-  Defense-in-depth security implementations
+-  Security research and malware analysis
+-  Continuous learning and skill development
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 ### Virtualization & Containerization
 ```
@@ -55,9 +55,9 @@ Plex              ████████████████░░░░ A
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🔒 [Homelab Scripts](https://github.com/ZalPika/homelab-scripts)
+### [Homelab Scripts](https://github.com/ZalPika/homelab-scripts)
 Production-ready automation scripts for homelab infrastructure management.
 
 **Highlights:**
@@ -70,7 +70,7 @@ Production-ready automation scripts for homelab infrastructure management.
 
 ---
 
-### 🧪 [USB Dropper Malware Research](https://github.com/ZalPika/usb-dropper-research)
+### [USB Dropper Malware Research](https://github.com/ZalPika/usb-dropper-research)
 Academic cybersecurity research on USB-based attack vectors and Discord C2 infrastructure.
 
 **Highlights:**
@@ -85,7 +85,7 @@ Academic cybersecurity research on USB-based attack vectors and Discord C2 infra
 
 ---
 
-## 🏗️ Current Infrastructure
+## Current Infrastructure
 
 ### Network Architecture
 ```
@@ -111,38 +111,38 @@ Academic cybersecurity research on USB-based attack vectors and Discord C2 infra
 - **Backup:** 3-2-1 strategy with Kingston XS1000 2TB external
 
 ### Services Running
-- 🔐 **OPNsense** - Firewall, VPN gateway, DNS
-- 🎬 **Plex** - Media server (LXC 106)
-- 🔄 **qBittorrent** - Policy-routed through VPN (LXC 104)
-- 🌐 **Nginx Proxy Manager** - Reverse proxy (LXC 101)
-- 📊 **Netbox** - Infrastructure documentation (LXC 107)
-- 🔍 **Malware Scanner** - ClamAV with quarantine pipeline
+-  **OPNsense** - Firewall, VPN gateway, DNS
+-  **Plex** - Media server (LXC 106)
+-  **qBittorrent** - Policy-routed through VPN (LXC 104)
+-  **Nginx Proxy Manager** - Reverse proxy (LXC 101)
+-  **Netbox** - Infrastructure documentation (LXC 107)
+-  **Malware Scanner** - ClamAV with quarantine pipeline
 
 ---
 
-## 💡 What I'm Building
+## What I'm Building
 
 ### Active Projects
 
-**🔧 Malware-Safe Download Workflow**
+** Malware-Safe Download Workflow**
 - Three-layer security: ClamAV → File validation → Manual approval
 - macOS GUI for remote approval
 - Real-time status in menu bar
 - Zero trust approach to downloads
 
-**🌐 VPN Policy Routing**
+** VPN Policy Routing**
 - NordVPN WireGuard integration with OPNsense
 - Selective routing based on application
 - Kill switch for critical services
 - Automated failover handling
 
-**📦 Automated Backup System**
+** Automated Backup System**
 - Proxmox host configuration backups
 - LXC container snapshots
 - Cross-platform automation (Linux + macOS)
 - Rotation and cleanup strategies
 
-**📚 Technical Documentation**
+** Technical Documentation**
 - Comprehensive setup guides
 - Network diagrams and topology
 - Troubleshooting playbooks
@@ -150,7 +150,7 @@ Academic cybersecurity research on USB-based attack vectors and Discord C2 infra
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![ZalPika's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZalPika&show_icons=true&theme=dark&hide_border=true)
 
@@ -158,24 +158,18 @@ Academic cybersecurity research on USB-based attack vectors and Discord C2 infra
 
 ---
 
-## 🎓 Learning Path
+## Learning Path
 
 ### Currently Studying
-- 🔒 Advanced firewall configurations and threat prevention
-- 🐍 Python for network automation
-- 🔐 Cryptography and VPN protocols
-- 📊 Infrastructure as Code (Terraform, Ansible)
-- 🛡️ SOC analysis and incident response
-
-### Certifications & Goals
-- 📜 CompTIA Security+ (Planned)
-- 📜 CCNA (Studying)
-- 📜 Linux+ (Planned)
-- 📜 CEH (Long-term goal)
+-  Advanced firewall configurations and threat prevention
+-  Python for network automation
+-  Cryptography and VPN protocols
+-  Infrastructure as Code (Terraform, Ansible)
+-  SOC analysis and incident response
 
 ---
 
-## 🛠️ Skills & Competencies
+## Skills & Competencies
 
 ### System Administration
 - ✅ Linux server management (Debian/Ubuntu)
@@ -207,60 +201,13 @@ Academic cybersecurity research on USB-based attack vectors and Discord C2 infra
 
 ---
 
-## 💼 Professional Goals
+## Connect With Me
 
-I'm actively seeking opportunities in:
-- 🖥️ **System Administration** - Linux/Windows server management
-- 🌐 **Network Administration** - Enterprise networking and security
-- 🔒 **Cybersecurity** - Security operations, threat analysis
-- 🛠️ **DevOps** - Infrastructure automation and monitoring
-- 🧪 **IT Infrastructure** - Design and implementation
+**LinkedIn:** [www.linkedin.com/in/henning-bakke-437bb8141]
+**Location:** Oslo/Lillestrøm, Norway  
 
-**What I bring:**
-- Hands-on experience with enterprise-grade technologies
-- Self-driven learning and problem-solving abilities
-- Strong documentation and communication skills
-- Passion for security and infrastructure automation
-- Practical knowledge from real-world homelab deployments
 
----
-
-## 📫 Connect With Me
-
-🌐 **Website:** [henningbakke.no](https://henningbakke.no)  
-💼 **LinkedIn:** [linkedin.com/in/henningbakke](#) *(Update with your actual link)*  
-📧 **Email:** [Contact via website]  
-📍 **Location:** Oslo/Lillestrøm, Norway  
-
----
-
-## 🌟 Recent Activity
-
-<!--START_SECTION:activity-->
-*This section will automatically update with recent GitHub activity*
-<!--END_SECTION:activity-->
-
----
-
-## 📈 Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ZalPika&theme=github-compact)
-
----
-
-## 🎯 2026 Goals
-
-- [ ] Publish 5+ homelab automation scripts
-- [ ] Complete network security certification
-- [ ] Contribute to open-source networking projects
-- [ ] Build comprehensive homelab documentation wiki
-- [ ] Achieve 100+ GitHub stars across repositories
-- [ ] Land first professional IT role
-- [ ] Present at local tech meetup
-
----
-
-## 💭 Philosophy
+## Philosophy
 
 > *"The best way to learn is by doing. Theory teaches concepts, but practice builds competence."*
 
@@ -270,7 +217,7 @@ Every script I write, every service I deploy, and every problem I solve contribu
 
 ---
 
-## 🔧 Tools I Use Daily
+## Tools I Use Daily
 
 **Development:**
 - VS Code with Remote-SSH
@@ -298,49 +245,10 @@ Every script I write, every service I deploy, and every problem I solve contribu
 
 ---
 
-## 📚 Blog & Articles *(Coming Soon)*
-
-Planning to share knowledge on:
-- 📝 Homelab setup guides
-- 🔒 Security hardening tutorials
-- 🌐 Network design best practices
-- 🐛 Troubleshooting war stories
-- 💡 Automation tips and tricks
-
----
-
-## ⭐ Support My Work
-
-If you find my projects useful:
-- ⭐ Star my repositories
-- 🔗 Share with others in the homelab community
-- 💬 Open issues with suggestions or improvements
-- 🤝 Contribute to my projects
-
-Every star motivates me to create more quality content!
-
----
-
-## 🙏 Acknowledgments
-
-Inspired by the incredible homelab and self-hosting communities:
-- r/homelab
-- r/selfhosted
-- r/proxmox
-- Servethehome forums
-- Lawrence Systems YouTube
-
-Special thanks to everyone sharing their knowledge—your tutorials and documentation made my journey possible.
-
----
-
 <div align="center">
 
-### 🚀 Let's Build Something Great
 
 *Passionate about infrastructure. Committed to security. Always learning.*
-
-**Open to collaborations and networking opportunities!**
 
 ---
 
