@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Henning 👋
 
-<!--
-**ZalPika/ZalPika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Infrastructure enthusiast building enterprise-grade homelab
+environments for hands-on learning.
 
-Here are some ideas to get you started:
+## What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 **Virtualization** - Proxmox VE, LXC, Docker
+🔒 **Security** - OPNsense, VLAN segmentation, ClamAV pipelines
+🌐 **Networking** - WireGuard VPN, policy-based routing, Unbound DNS
+📦 **Automation** - Bash scripting, cron workflows, SwiftBar
+
+## Current project
+
+Building a 7-VLAN segmented network with automated malware
+scanning, quarantine workflows, and policy-based VPN routing.
+
+## Find me
+
+🌐 [henningbakke.no](https://henningbakke.no)
+📍 Oslo/Lillestrøm, Norway
+
