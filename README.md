@@ -150,14 +150,6 @@ Academic cybersecurity research on USB-based attack vectors and Discord C2 infra
 
 ---
 
-## GitHub Stats
-
-![ZalPika's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZalPika&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZalPika&layout=compact&theme=dark&hide_border=true)
-
----
-
 ## Learning Path
 
 ### Currently Studying
