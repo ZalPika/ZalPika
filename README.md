@@ -11,6 +11,7 @@
 I'm a systems administrator and security researcher based in Oslo/Lillestrøm, Norway, with a passion for building robust, secure infrastructure. My homelab serves as both a learning platform and a showcase of enterprise-level competencies in networking, virtualization, and security.
 
 **Current Focus:**
+-  BMC Helix
 -  Enterprise homelab infrastructure design
 -  Defense-in-depth security implementations
 -  Security research and malware analysis
@@ -104,11 +105,11 @@ Academic cybersecurity research on USB-based attack vectors and Discord C2 infra
 
 ### Core Components
 - **Firewall:** OPNsense with policy-based routing
-- **Hypervisor:** Proxmox VE 8.x
+- **Hypervisor:** Proxmox VE 9.x
 - **Network:** Zyxel GS1915 managed switches with PoE
 - **Wireless:** LAPAC1750 access points
 - **Storage:** Multi-tier with automated spindown
-- **Backup:** 3-2-1 strategy with Kingston XS1000 2TB external
+- **Backup:** 3-2-1 strategy
 
 ### Services Running
 -  **OPNsense** - Firewall, VPN gateway, DNS
@@ -117,6 +118,7 @@ Academic cybersecurity research on USB-based attack vectors and Discord C2 infra
 -  **Nginx Proxy Manager** - Reverse proxy (LXC 101)
 -  **Netbox** - Infrastructure documentation (LXC 107)
 -  **Malware Scanner** - ClamAV with quarantine pipeline
+-  **Webserver** - Hosting my homepage
 
 ---
 
@@ -153,11 +155,11 @@ Academic cybersecurity research on USB-based attack vectors and Discord C2 infra
 ## Learning Path
 
 ### Currently Studying
+-  ITIL
+-  BMC Helix
 -  Advanced firewall configurations and threat prevention
 -  Python for network automation
--  Cryptography and VPN protocols
 -  Infrastructure as Code (Terraform, Ansible)
--  SOC analysis and incident response
 
 ---
 
@@ -165,7 +167,7 @@ Academic cybersecurity research on USB-based attack vectors and Discord C2 infra
 
 ### System Administration
 - ✅ Linux server management (Debian/Ubuntu)
-- ✅ Virtualization platforms (Proxmox, ESXi experience)
+- ✅ Virtualization platforms (Proxmox)
 - ✅ Container orchestration (LXC, Docker)
 - ✅ User and permission management
 - ✅ System monitoring and logging
@@ -196,14 +198,15 @@ Academic cybersecurity research on USB-based attack vectors and Discord C2 infra
 ## Connect With Me
 
 **LinkedIn:** [www.linkedin.com/in/henning-bakke-437bb8141]
+
 **Location:** Oslo/Lillestrøm, Norway  
 
 
 ## Philosophy
 
-> *"The best way to learn is by doing. Theory teaches concepts, but practice builds competence."*
+"The best way to learn is by doing. Theory teaches concepts, but practice builds competence."
 
-My homelab isn't just a hobby—it's a **learning laboratory** where I can safely experiment, break things, and build enterprise-level skills that translate directly to professional environments.
+My homelab isn't just a hobby —it's a **learning laboratory** where I can safely experiment, break things, implement solutions for my home, and build enterprise-level skills that translate directly to professional environments.
 
 Every script I write, every service I deploy, and every problem I solve contributes to a portfolio of **real-world experience** that goes beyond certifications and coursework.
 
@@ -225,8 +228,8 @@ Every script I write, every service I deploy, and every problem I solve contribu
 
 **Documentation:**
 - Markdown for all docs
-- Draw.io for network diagrams
-- Notion for knowledge base
+- Netbox for configurations, relationships, and IP
+- BockStack for knowledge base (planned)
 - Git for version control
 
 **Monitoring:**
