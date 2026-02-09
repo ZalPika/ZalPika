@@ -98,7 +98,7 @@ Academic cybersecurity research on USB-based attack vectors and Discord C2 infra
 │ VLAN 30 │ MGMT       │ Infrastructure       │
 │ VLAN 40 │ SERVERS    │ Proxmox & Services   │
 │ VLAN 50 │ IOT        │ Smart Devices        │
-│ VLAN 60 │ IPTV       │ Media Streaming      │
+│ VLAN 60 │ VPN        │ Media Streaming      │
 │ VLAN 70 │ GUESTS     │ Isolated Network     │
 └─────────────────────────────────────────────┘
 ```
@@ -112,13 +112,13 @@ Academic cybersecurity research on USB-based attack vectors and Discord C2 infra
 - **Backup:** 3-2-1 strategy
 
 ### Services Running
--  **OPNsense** - Firewall, VPN gateway, DNS
--  **Plex** - Media server (LXC 106)
--  **qBittorrent** - Policy-routed through VPN (LXC 104)
+-  **OPNsense** - Firewall, VPN gateway, DNS (VM 100)
 -  **Nginx Proxy Manager** - Reverse proxy (LXC 101)
--  **Netbox** - Infrastructure documentation (LXC 107)
+-  **Webserver** - Hosting my homepage (LXC 102)
+-  **qBittorrent** - Policy-routed through VPN (LXC 103)
+-  **Plex** - Media server (LXC 104)
+-  **Netbox** - Infrastructure documentation (LXC 105)
 -  **Malware Scanner** - ClamAV with quarantine pipeline
--  **Webserver** - Hosting my homepage
 
 ---
 
@@ -204,7 +204,7 @@ Academic cybersecurity research on USB-based attack vectors and Discord C2 infra
 
 ## Philosophy
 
-"The best way to learn is by doing. Theory teaches concepts, but practice builds competence."
+> "The best way to learn is by doing. Theory teaches concepts, but practice builds competence."
 
 My homelab isn't just a hobby —it's a **learning laboratory** where I can safely experiment, break things, implement solutions for my home, and build enterprise-level skills that translate directly to professional environments.
 
